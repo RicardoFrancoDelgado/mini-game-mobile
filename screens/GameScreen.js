@@ -37,8 +37,6 @@ function GameScreen({ userNumber }) {
       return
     }
 
-    console.log(minBoundary, maxBoundary)
-
     if (direction === 'lower') {
       maxBoundary = currentGuess
     } else {
