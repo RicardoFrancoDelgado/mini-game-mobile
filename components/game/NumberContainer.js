@@ -23,7 +23,6 @@ const styles = StyleSheet.create({
     color: Colors.primary500,
     fontSize: 36,
     textAlign: 'center',
-    fontFamily: 'open-sans-bold',
   }
 })
 

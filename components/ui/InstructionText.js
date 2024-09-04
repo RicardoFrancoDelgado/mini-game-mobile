@@ -6,7 +6,6 @@ function InstructionText({ children, style }) {
 
 const styles = StyleSheet.create({
   instructionTitle: {
-    fontFamily: 'open-sans',
     color: '#f6f6f6',
     fontSize: 24
   }
