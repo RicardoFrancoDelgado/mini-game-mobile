@@ -3,7 +3,7 @@
     "name": "mini-game-app",
     "slug": "mini-game-app",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
